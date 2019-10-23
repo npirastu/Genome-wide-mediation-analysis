@@ -37,9 +37,6 @@ my_bgwas=  bGWAS(name = "Cheese",
                save_files = FALSE,
                verbose=T)
 
-### Coefficient plot
-
-
 
 # Run correction analysis
 corrected.gwas=gwma.data.frame(bGWAS.obj=my_bgwas,         # bGWAS output object
