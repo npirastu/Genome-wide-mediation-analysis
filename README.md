@@ -29,7 +29,7 @@ Packages:
 Also it the Z-matrices files will be needed. 
 From inside the data folder type
 ```
-wget 
+wget https://www.dropbox.com/s/bho8irpf2myavzh/ZMatrices_2018-11-12.tar.gz?dl=1
 tar -zxvf ZMatrices_2018-11-12.tar.gz
 
 ```
