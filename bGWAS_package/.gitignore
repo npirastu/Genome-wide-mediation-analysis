@@ -1,0 +1,9 @@
+# Files ignored by git
+
+.Rproj.user
+#bGWAS.Rproj
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+inst/doc
